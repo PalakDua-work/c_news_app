@@ -1,0 +1,26 @@
+.regheading
+{
+	color:#FF4163;
+	font-family: "Alegreya", sans-serif;
+	font-size: 3.5rem;
+}
+
+.Registerform{
+     background-color: #FF4163;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.buttoncolor
+{
+	margin-top: 20px;
+	background-color: #ffffff;
+}
+
+@media only screen and (max-width: 768px)
+ {
+   .Registerimage
+{
+	display: none
+}
+}

@@ -1,0 +1,36 @@
+.Loginheading
+{
+	color:#FF4163;
+	font-family: "Alegreya", sans-serif;
+	font-size: 3.5rem;
+}
+.Loginform
+{
+	background-color: #FF4163;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 20px;
+}
+.buttoncolor
+{
+	margin-top: 20px;
+	background-color: #ffffff;
+}
+.checkbox
+{
+	color: #ffffff!important;
+    font-family: 'Montserrat', sans-serif!important;
+}
+.form-check-input
+{
+	color: #ffffff!important;
+	background-color: #FF4163!important;
+	border-color:  #ffffff!important;
+}
+@media only screen and (max-width: 768px) {
+
+.Loginimage
+{
+	display: none;
+}
+}
